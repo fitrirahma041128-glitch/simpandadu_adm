@@ -1,0 +1,423 @@
+{
+  "adminAccount": {
+    "username": "admin_adimulya",
+    "passwordHash": "f219be7e6487530295c783a953caa831:ee406cec130aa99fe048f08b170f808898f6bfd806ae5a75ca1477edaa223541f18a531699fcdceada007740568f77ce8f2e80692f211ea6b81a74504e0e606b",
+    "fullName": "Admin Uji Sementara",
+    "role": "Sekretaris Desa",
+    "createdAt": "2026-11-27T07:13:34.042Z"
+  },
+  "assets": [
+    {
+      "id": "ast-001",
+      "nama": "Gedung Balai Desa Adimulya (Contoh Data)",
+      "kategori": "Bangunan",
+      "lokasi": "Dusun I (Pusat Pemerintahan)",
+      "tahunPerolehan": 2018,
+      "jumlah": 1,
+      "satuan": "Unit",
+      "kondisi": "Baik",
+      "keterangan": "Contoh data awal. Silakan sesuaikan atau tambahkan koordinat resmi pada menu Edit.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    },
+    {
+      "id": "ast-002",
+      "nama": "Tanah Kas Desa Blok Persawahan (Contoh Data)",
+      "kategori": "Tanah Desa",
+      "lokasi": "Dusun II",
+      "tahunPerolehan": 1995,
+      "jumlah": 2,
+      "satuan": "Bidang",
+      "kondisi": "Baik",
+      "keterangan": "Lahan produktif desa seluas contoh; perbarui sesuai Buku Inventaris Aset Desa.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    },
+    {
+      "id": "ast-003",
+      "nama": "Saluran Irigasi Tersier Padi (Contoh Data)",
+      "kategori": "Pertanian",
+      "lokasi": "Dusun II",
+      "tahunPerolehan": 2020,
+      "jumlah": 450,
+      "satuan": "Meter",
+      "kondisi": "Perlu Perbaikan",
+      "keterangan": "Sebagian dinding beton mengalami retakan ringan menjelang musim tanam.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    },
+    {
+      "id": "ast-004",
+      "nama": "Jembatan Penghubung Antar Dusun (Contoh Data)",
+      "kategori": "Infrastruktur",
+      "lokasi": "Perbatasan Dusun I & III",
+      "tahunPerolehan": 2012,
+      "jumlah": 1,
+      "satuan": "Unit",
+      "kondisi": "Rusak Berat",
+      "keterangan": "Memerlukan rehabilitasi struktur abutment dan lantai jembatan.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    },
+    {
+      "id": "ast-005",
+      "nama": "Ambulans Siaga Desa (Contoh Data)",
+      "kategori": "Kendaraan",
+      "lokasi": "Garasi Balai Desa",
+      "tahunPerolehan": 2022,
+      "jumlah": 1,
+      "satuan": "Unit",
+      "kondisi": "Baik",
+      "keterangan": "Siap operasional 24 jam untuk layanan rujukan kesehatan warga.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    },
+    {
+      "id": "ast-006",
+      "nama": "Perangkat Komputer & Server Administrasi (Contoh Data)",
+      "kategori": "Peralatan",
+      "lokasi": "Ruang Pelayanan Balai Desa",
+      "tahunPerolehan": 2023,
+      "jumlah": 4,
+      "satuan": "Unit",
+      "kondisi": "Baik",
+      "keterangan": "Digunakan untuk pelayanan surat-menyurat dan administrasi kependudukan.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    },
+    {
+      "id": "ast-007",
+      "nama": "Posyandu Melati & Taman Baca (Contoh Data)",
+      "kategori": "Fasilitas Umum",
+      "lokasi": "Dusun III",
+      "tahunPerolehan": 2019,
+      "jumlah": 1,
+      "satuan": "Unit",
+      "kondisi": "Perlu Perbaikan",
+      "keterangan": "Atap teras memerlukan penggantian genteng dan pengecatan ulang.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    },
+    {
+      "id": "ast-008",
+      "nama": "Jaringan Penerangan Jalan Umum Tenaga Surya (Contoh Data)",
+      "kategori": "Jaringan",
+      "lokasi": "Jalan Poros Desa Adimulya",
+      "tahunPerolehan": 2024,
+      "jumlah": 18,
+      "satuan": "Titik",
+      "kondisi": "Baik",
+      "keterangan": "Sebanyak 18 titik lampu terpasang di sepanjang jalur utama desa.",
+      "koordinat": {
+        "lat": null,
+        "lng": null
+      },
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z"
+    }
+  ],
+  "proposals": [
+    {
+      "id": "mus-001",
+      "namaPengusul": "Kadus I / Ketua RW 01 (Contoh)",
+      "judulUsulan": "Pengaspalan Jalan Lingkungan Poros Dusun I",
+      "kategori": "Infrastruktur",
+      "lokasi": "Dusun I RT 02 / RW 01",
+      "tanggalPengajuan": "2026-01-14",
+      "prioritas": "Tinggi",
+      "status": "Disetujui",
+      "estimasiAnggaran": "Rp 185.000.000",
+      "deskripsi": "Peningkatan kualitas jalan akses utama warga dan distribusi hasil pertanian sepanjang 400 meter.",
+      "catatanVerifikasi": "Masuk prioritas RKPDes tahun anggaran berjalan.",
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z",
+      "nomorPengajuan": "MSRB-2026-0001",
+      "sumber": "Admin",
+      "dipublikasikan": true,
+      "catatanUntukPengusul": "",
+      "fotoUrl": null
+    },
+    {
+      "id": "mus-002",
+      "namaPengusul": "Kader Posyandu (Contoh)",
+      "judulUsulan": "Pengadaan Alat Antropometri & PMT Balita Terpadu",
+      "kategori": "Kesehatan",
+      "lokasi": "Posyandu Dusun II & III",
+      "tanggalPengajuan": "2026-01-19",
+      "prioritas": "Tinggi",
+      "status": "Dalam Pembahasan",
+      "estimasiAnggaran": "Rp 42.500.000",
+      "deskripsi": "Pencegahan stunting dan peningkatan kualitas pemeriksaan ibu hamil serta balita.",
+      "catatanVerifikasi": "Menunggu sinkronisasi pagu anggaran bidang kesehatan.",
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z",
+      "nomorPengajuan": "MSRB-2026-0002",
+      "sumber": "Admin",
+      "dipublikasikan": false,
+      "catatanUntukPengusul": "",
+      "fotoUrl": null
+    },
+    {
+      "id": "mus-003",
+      "namaPengusul": "Kelompok Tani Karya Makmur (Contoh)",
+      "judulUsulan": "Rehabilitasi Saluran Irigasi Tersier Blok Timur",
+      "kategori": "Pertanian",
+      "lokasi": "Dusun II",
+      "tanggalPengajuan": "2026-02-02",
+      "prioritas": "Tinggi",
+      "status": "Menunggu Verifikasi",
+      "estimasiAnggaran": "Rp 110.000.000",
+      "deskripsi": "Perbaikan tanggul dan pintu air guna menjaga pasokan irigasi lahan sawah warga.",
+      "catatanVerifikasi": "Tim teknis desa dijadwalkan melakukan survei lapangan.",
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z",
+      "nomorPengajuan": "MSRB-2026-0003",
+      "sumber": "Admin",
+      "dipublikasikan": false,
+      "catatanUntukPengusul": "",
+      "fotoUrl": null
+    },
+    {
+      "id": "mus-004",
+      "namaPengusul": "Karang Taruna Adimulya (Contoh)",
+      "judulUsulan": "Pelatihan Kewirausahaan Digital & Kemasan UMKM",
+      "kategori": "Ekonomi",
+      "lokasi": "Aula Balai Desa Adimulya",
+      "tanggalPengajuan": "2026-02-08",
+      "prioritas": "Sedang",
+      "status": "Diajukan",
+      "estimasiAnggaran": "Rp 28.000.000",
+      "deskripsi": "Peningkatan kapasitas pelaku usaha mikro lokal dalam pemasaran daring dan legalitas NIB.",
+      "catatanVerifikasi": "",
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z",
+      "nomorPengajuan": "MSRB-2026-0004",
+      "sumber": "Admin",
+      "dipublikasikan": false,
+      "catatanUntukPengusul": "",
+      "fotoUrl": null
+    },
+    {
+      "id": "mus-005",
+      "namaPengusul": "Pengurus PAUD Harapan (Contoh)",
+      "judulUsulan": "Renovasi Ruang Belajar PAUD & Pengadaan Buku Bacaan",
+      "kategori": "Pendidikan",
+      "lokasi": "Dusun III",
+      "tanggalPengajuan": "2025-11-20",
+      "prioritas": "Sedang",
+      "status": "Selesai",
+      "estimasiAnggaran": "Rp 65.000.000",
+      "deskripsi": "Pengecatan ruang kelas, perbaikan plafon, serta penambahan koleksi buku anak.",
+      "catatanVerifikasi": "Telah direalisasikan dan diserahterimakan.",
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z",
+      "nomorPengajuan": "MSRB-2026-0005",
+      "sumber": "Admin",
+      "dipublikasikan": true,
+      "catatanUntukPengusul": "",
+      "fotoUrl": null
+    },
+    {
+      "id": "mus-006",
+      "namaPengusul": "Bank Sampah Berseri (Contoh)",
+      "judulUsulan": "Pembangunan TPS3R Mini & Pengadaan Mesin Pencacah Kompos",
+      "kategori": "Lingkungan",
+      "lokasi": "Dusun II Area Terbuka",
+      "tanggalPengajuan": "2026-02-12",
+      "prioritas": "Rendah",
+      "status": "Diajukan",
+      "estimasiAnggaran": "Rp 75.000.000",
+      "deskripsi": "Pengelolaan sampah terpadu berbasis masyarakat untuk mengurangi timbunan sampah rumah tangga.",
+      "catatanVerifikasi": "",
+      "createdAt": "2026-11-27T07:08:17.104Z",
+      "updatedAt": "2026-11-27T07:08:17.104Z",
+      "nomorPengajuan": "MSRB-2026-0006",
+      "sumber": "Admin",
+      "dipublikasikan": false,
+      "catatanUntukPengusul": "",
+      "fotoUrl": null
+    }
+  ],
+  "mapConfig": {
+    "balaiDesaLat": null,
+    "balaiDesaLng": null,
+    "defaultZoom": 14,
+    "batasUtara": "[Belum diisi — masukkan batas wilayah utara resmi]",
+    "batasSelatan": "[Belum diisi — masukkan batas wilayah selatan resmi]",
+    "batasTimur": "[Belum diisi — masukkan batas wilayah timur resmi]",
+    "batasBarat": "[Belum diisi — masukkan batas wilayah barat resmi]",
+    "boundaryCoordinates": [],
+    "dusunList": [
+      {
+        "id": "dsn-1",
+        "nama": "Dusun I (Contoh — Edit Nama Resmi)",
+        "kepalaDusun": "[Nama Kepala Dusun I]",
+        "jumlahRW": 2,
+        "jumlahRT": 6,
+        "lat": null,
+        "lng": null,
+        "keterangan": "Wilayah pusat pelayanan Balai Desa Adimulya. Silakan isi koordinat resmi."
+      },
+      {
+        "id": "dsn-2",
+        "nama": "Dusun II (Contoh — Edit Nama Resmi)",
+        "kepalaDusun": "[Nama Kepala Dusun II]",
+        "jumlahRW": 2,
+        "jumlahRT": 5,
+        "lat": null,
+        "lng": null,
+        "keterangan": "Kawasan permukiman dan lahan pertanian produktif. Silakan isi koordinat resmi."
+      },
+      {
+        "id": "dsn-3",
+        "nama": "Dusun III (Contoh — Edit Nama Resmi)",
+        "kepalaDusun": "[Nama Kepala Dusun III]",
+        "jumlahRW": 2,
+        "jumlahRT": 5,
+        "lat": null,
+        "lng": null,
+        "keterangan": "Kawasan fasilitas pendidikan dan sentra UMKM warga. Silakan isi koordinat resmi."
+      }
+    ]
+  },
+  "villageProfile": {
+    "tentang": {
+      "deskripsi": "[Contoh Konten — Silakan Ubah Sesuai Data Resmi Desa] Desa Adimulya merupakan desa yang berkomitmen mewujudkan tata kelola pemerintahan yang transparan, partisipatif, dan berbasis data terpadu melalui platform SIMPANDADU. Seluruh informasi pada halaman ini dapat disesuaikan oleh perangkat desa dengan data resmi profil desa.",
+      "alamatBalaiDesa": "[Masukkan Alamat Resmi Balai Desa Adimulya]",
+      "emailResmi": "[pemdes@adimulya.desa.id — sesuaikan]",
+      "telepon": "[Masukkan Nomor Telepon Resmi Balai Desa]",
+      "kodePos": "[Kode Pos]",
+      "kecamatan": "[Nama Kecamatan]",
+      "kabupaten": "[Nama Kabupaten]",
+      "provinsi": "[Nama Provinsi]"
+    },
+    "sejarah": {
+      "ringkasan": "[Contoh Konten Sejarah Desa] Bagian ini disiapkan untuk mendokumentasikan sejarah berdirinya Desa Adimulya, asal-usul penamaan wilayah, serta tonggak penting pembangunan desa dari masa ke masa berdasarkan arsip resmi desa dan penuturan tokoh masyarakat.",
+      "linimasa": [
+        {
+          "tahun": "[Tahun Berdiri]",
+          "peristiwa": "Pembentukan awal wilayah permukiman dan pemerintahan Desa Adimulya (contoh entri — silakan perbarui)."
+        },
+        {
+          "tahun": "[Tahun Pembangunan Balai Desa]",
+          "peristiwa": "Pembangunan pusat administrasi Balai Desa sebagai sentra pelayanan publik warga."
+        },
+        {
+          "tahun": "2026",
+          "peristiwa": "Penerapan SIMPANDADU untuk digitalisasi inventaris aset, pemetaan wilayah, dan Musrenbang desa."
+        }
+      ]
+    },
+    "visiMisi": {
+      "visi": "[Contoh Visi — Ganti dengan Visi RPJMDes Resmi] \"Terwujudnya Desa Adimulya yang Mandiri, Sejahtera, Transparan, dan Berdaya Saing Berbasis Tata Kelola Pemerintahan Digital.\"",
+      "misi": [
+        "Meningkatkan kualitas pelayanan administrasi pemerintahan desa yang cepat, akurat, dan transparan.",
+        "Mengoptimalkan pengelolaan serta pemeliharaan aset desa dan infrastruktur dasar masyarakat.",
+        "Mendorong partisipasi aktif warga dalam perencanaan pembangunan melalui Musrenbang desa.",
+        "Mengembangkan potensi ekonomi lokal, sektor pertanian, serta pemberdayaan UMKM desa."
+      ]
+    },
+    "geografisDemografi": {
+      "luasWilayah": "[Isi Luas Wilayah Resmi, mis. ... Ha / km²]",
+      "ketinggian": "[Isi Ketinggian mdpl]",
+      "topografi": "[Contoh: Dataran rendah / perbukitan — sesuaikan]",
+      "jumlahPenduduk": "[Isi Total Penduduk Resmi]",
+      "jumlahKK": "[Isi Jumlah Kepala Keluarga]",
+      "lakiLaki": "[Isi Jumlah Laki-laki]",
+      "perempuan": "[Isi Jumlah Perempuan]",
+      "catatanSumber": "Contoh struktur data demografi. Silakan perbarui dari Buku Induk Penduduk / Profil Desa resmi."
+    },
+    "potensi": [
+      {
+        "id": "pot-1",
+        "bidang": "Pertanian & Ketahanan Pangan",
+        "judul": "Lahan Pertanian Produktif (Contoh)",
+        "deskripsi": "Sebagian besar wilayah desa memiliki potensi lahan pertanian pangan dan hortikultura yang didukung jaringan irigasi desa."
+      },
+      {
+        "id": "pot-2",
+        "bidang": "Ekonomi & UMKM",
+        "judul": "Sentra Usaha Mikro & Produk Olahan Desa (Contoh)",
+        "deskripsi": "Pelaku usaha rumah tangga dan BUMDes memiliki peluang pengembangan produk olahan lokal bernilai tambah."
+      },
+      {
+        "id": "pot-3",
+        "bidang": "Sosial & Budaya",
+        "judul": "Gotong Royong & Kelembagaan Masyarakat (Contoh)",
+        "deskripsi": "Aktivitas PKK, Karang Taruna, Kelompok Tani, serta lembaga adat menjadi modal sosial utama pembangunan desa."
+      }
+    ],
+    "strukturOrganisasi": [
+      {
+        "id": "str-1",
+        "jabatan": "Kepala Desa",
+        "nama": "[Nama Kepala Desa Adimulya]",
+        "nipAtauKeterangan": "Pimpinan Pemerintahan Desa (Contoh — Edit)",
+        "urutan": 1
+      },
+      {
+        "id": "str-2",
+        "jabatan": "Sekretaris Desa",
+        "nama": "[Nama Sekretaris Desa]",
+        "nipAtauKeterangan": "Koordinator Pelaksana Teknis Pengelolaan Keuangan & Administrasi",
+        "urutan": 2
+      },
+      {
+        "id": "str-3",
+        "jabatan": "Kaur Tata Usaha & Umum",
+        "nama": "[Nama Kaur TU & Umum]",
+        "nipAtauKeterangan": "Pengelolaan Arsip, Surat-Menyurat & Inventaris Aset Desa",
+        "urutan": 3
+      },
+      {
+        "id": "str-4",
+        "jabatan": "Kaur Perencanaan",
+        "nama": "[Nama Kaur Perencanaan]",
+        "nipAtauKeterangan": "Koordinator RPJMDes, RKPDes & Musrenbang",
+        "urutan": 4
+      },
+      {
+        "id": "str-5",
+        "jabatan": "Kaur Keuangan",
+        "nama": "[Nama Kaur Keuangan]",
+        "nipAtauKeterangan": "Pelaksana Fungsi Kebendaharaan Desa",
+        "urutan": 5
+      },
+      {
+        "id": "str-6",
+        "jabatan": "Kasi Pemerintahan",
+        "nama": "[Nama Kasi Pemerintahan]",
+        "nipAtauKeterangan": "Administrasi Kependudukan, Pertanahan & Batas Wilayah",
+        "urutan": 6
+      }
+    ]
+  }
+}
